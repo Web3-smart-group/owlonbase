@@ -53654,7 +53654,7 @@ const gfe = ({ setLanguage: e, language: t }) => {
                     t("SWITCH $BASE FOR $BOWL"),
                     I.jsx("br", {}),
                     I.jsx("br", {}),
-                    t(lt[e].howtobuy[3]),
+                    t("With BASE, head to Jupiter Exchange or Raydium Exchange via a browser or cryptowallet to trade for $BOWL. Connect your wallet, input $BOWL address, select it for trading, and confirm following prompts."),
                   ],
                 }),
               ],
